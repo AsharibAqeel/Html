@@ -1,0 +1,54 @@
+body {
+    padding: 0px;
+    margin: 0;
+}
+
+header {
+    background-image: url('flywheel\ css\ image.jpg'); /* Set the path to your local header image */
+    background-size: cover;
+    text-align:center;
+    padding: 20px;
+}
+
+
+/* Navigation Styles */
+.nav {
+    display:flex;
+    justify-content: space-between;
+    text-decoration:none;
+    align-items: center;
+}
+
+.nav {
+    margin: 15px;
+    border-radius: 10px;
+    text-decoration:dashed;
+    padding: 10px 15px;
+}
+
+.Top{
+    background:;
+    font-size: 17px;
+    
+
+}
+
+h1{
+    text-align: center;
+}
+
+
+div{
+
+    background: #ffffff ;
+
+}
+
+.ul{
+
+    background: #ffffff;
+}
+
+.a{
+    background: #ffffff;
+}

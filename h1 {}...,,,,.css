@@ -1,0 +1,28 @@
+.Top{
+    background: #c0bcbc;
+    font-size: 100%;
+    img {
+        max-width: 150px; 
+        max-height: 250px;
+    }
+
+}
+
+h1{
+    text-align: center;
+}
+
+
+div{
+
+    background: #817d7d ;
+}
+
+.ul{
+
+    background: #a19f9f;
+}
+
+.a{
+    background: #8d8a8a ;
+}
